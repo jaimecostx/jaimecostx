@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 <h3 align="center">A Computer Science and Engineering Student @ UFP</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -27,5 +22,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
+<hr>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
