@@ -28,3 +28,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+
