@@ -37,9 +37,9 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-<img size="50vh" src="https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img size="50vh" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true"/>
+<img width="500vh" src="https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="500vh" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true"/>
 <p>
 <p align="middle">
-<img size="50vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="500vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 <p>
