@@ -36,7 +36,8 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<p align="left">
+<p align="left"
+   enabled>
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=jaimecostx&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimecostx&theme=radical&hide_border=true"/>
 <p>
